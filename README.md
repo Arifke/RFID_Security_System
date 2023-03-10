@@ -1,2 +1,2 @@
 # RFID_Security_System
-Rfid NFC teknolojisi kullanılarak bir kapı kilit sistemi yapılmıştır. Bu projede lcd ekran, servo motor led ve buzzer kullanılmıştır.
+A door lock system has benn made using RFID NFC technology. LCD display, Servo moto, led and buzzer are used in this project.
